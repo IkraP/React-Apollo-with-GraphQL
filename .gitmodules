@@ -1,0 +1,3 @@
+[submodule "GraphQL-js-prisma-server"]
+	path = GraphQL-js-prisma-server
+	url = https://github.com/IkraP/GraphQL-js-prisma-server.git
